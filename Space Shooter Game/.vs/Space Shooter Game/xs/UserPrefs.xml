@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2EE70DEE-C578-6339-02F0-6CCE4AC63368}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/GameState.cs">
+    <Files>
+      <File FileName="Assets/Enemy/Enemy.cs" Line="29" Column="31" />
+      <File FileName="Assets/Player/Player.cs" Line="20" Column="10" />
+      <File FileName="Assets/Player/Laser.cs" Line="1" Column="1" />
+      <File FileName="Assets/Enemy/EnemySpawner.cs" Line="31" Column="52" />
+      <File FileName="Assets/Scenes/GameState.cs" Line="18" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Space Shooter Game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Enemy" expanded="True" />
+              <Node name="Player" expanded="True" />
+              <Node name="Scenes" expanded="True">
+                <Node name="GameState.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e61f5426-ec99-49ce-b8b8-763808f7fd80" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
